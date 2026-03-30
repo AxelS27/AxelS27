@@ -1,13 +1,13 @@
 ### Hey there 👋
 
-I'm a Software Engineer working across apps, games, machine learning, and AR/VR.
+I'm a Software Engineer building across apps, games, ML, and AR/VR.
 
 ---
 
 ### 🚀 Currently
 
 Focused on **Agentic AI**  
-Building autonomous systems that can think, plan, and act.
+Building autonomous systems that think, plan, and act.
 
 ---
 
@@ -20,8 +20,18 @@ https://farrellaxel2006.vercel.app/projects
 
 ### 🛠️ Tools
 
-Dart • C • C# • C++ • Java  
-JavaScript • TypeScript • HTML • CSS  
-React • Next.js • Tailwind  
+Languages:  
+Dart • C • C# • C++ • Java • JavaScript • TypeScript  
 
-PyTorch • scikit-learn • Git • REST APIs  
+Frontend:  
+React • Next.js • Tailwind • HTML • CSS  
+
+AI/ML:  
+PyTorch • scikit-learn  
+
+Other:  
+Git • REST APIs  
+
+---
+
+I build systems that don’t just respond — they act.
