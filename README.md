@@ -14,7 +14,7 @@ Building autonomous systems that think, plan, and act.
 ### 🌐 Projects
 
 → Explore my work:  
-https://farrellaxel2006.vercel.app/projects
+https://farrellaxel2006.vercel.app
 
 ---
 
