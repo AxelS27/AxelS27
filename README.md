@@ -31,7 +31,3 @@ PyTorch • scikit-learn
 
 Other:  
 Git • REST APIs  
-
----
-
-I build systems that don’t just respond — they act.
