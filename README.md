@@ -21,7 +21,7 @@ https://farrellaxel2006.vercel.app
 ### 🛠️ Tools
 
 Languages:  
-Dart • C • C# • C++ • Java • JavaScript • TypeScript  
+Dart • C • C# • C++ • Java • JavaScript • TypeScript • Python • Rust  
 
 Frontend:  
 React • Next.js • Tailwind • HTML • CSS  
