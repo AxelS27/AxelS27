@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there
 
 I'm a Software Engineer building across apps, games, ML, and AR/VR.
 
