@@ -4,21 +4,21 @@ I'm a Software Engineer building across apps, games, ML, and AR/VR.
 
 ---
 
-### 🚀 Currently
+### Currently
 
 Focused on **Agentic AI**  
 Building autonomous systems that think, plan, and act.
 
 ---
 
-### 🌐 Projects
+### Projects
 
 → Explore my work:  
 https://farrellaxel2006.vercel.app
 
 ---
 
-### 🛠️ Tools
+### Tools
 
 Languages:  
 Dart • C • C# • C++ • Java • Python • Rust • JavaScript • TypeScript 
