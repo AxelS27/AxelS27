@@ -18,16 +18,6 @@ https://liemaxels.com
 
 ---
 
-### Tools
+### Message
 
-Languages:  
-Swift • Dart • C • C# • C++ • Java • Python • Rust • JavaScript • TypeScript 
-
-Frontend:  
-React • Next.js • Tailwind • HTML • CSS  
-
-AI/ML:  
-PyTorch • scikit-learn  
-
-Other:  
-Git • REST APIs  
+i use arch btw
