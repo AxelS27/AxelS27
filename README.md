@@ -18,6 +18,6 @@ https://liemaxels.com
 
 ---
 
-### Message
+### Notes
 
 i use arch btw
