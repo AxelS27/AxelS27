@@ -14,7 +14,7 @@ Building autonomous systems that think, plan, and act.
 ### Sites
 
 → Explore my work:  
-https://liemaxels.com
+https://liemaxels.com  
 https://wachatrewind.com
 
 ---
